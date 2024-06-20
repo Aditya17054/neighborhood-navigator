@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neighborhood-navigator/static/css/main.7866d69b.css",
+    "main.js": "/neighborhood-navigator/static/js/main.d8db7b8a.js",
+    "static/js/453.31cfe22f.chunk.js": "/neighborhood-navigator/static/js/453.31cfe22f.chunk.js",
+    "index.html": "/neighborhood-navigator/index.html",
+    "main.7866d69b.css.map": "/neighborhood-navigator/static/css/main.7866d69b.css.map",
+    "main.d8db7b8a.js.map": "/neighborhood-navigator/static/js/main.d8db7b8a.js.map",
+    "453.31cfe22f.chunk.js.map": "/neighborhood-navigator/static/js/453.31cfe22f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7866d69b.css",
+    "static/js/main.d8db7b8a.js"
+  ]
+}
